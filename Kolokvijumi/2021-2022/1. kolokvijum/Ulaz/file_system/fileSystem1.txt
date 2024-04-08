@@ -1,0 +1,3 @@
+Slika.jpg,sdf1,150
+Video.mp4,sdf2,250
+Dokument.docx,sdf2,50
