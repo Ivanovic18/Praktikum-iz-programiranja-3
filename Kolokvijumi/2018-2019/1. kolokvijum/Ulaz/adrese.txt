@@ -1,0 +1,10 @@
+ispravnaAdresa@gmail.com
+neispravna.adresa@hotmail
+prva-druga@123yahoo.com
+neispravna_adresa@domain
+provera123@server.com
+neispravna-adresa@.com
+test_adresa12@yahoo.co
+trecapetimadresa@domen.com
+neispravna123@domen_.com
+poslednja.adresa@provera.ba
